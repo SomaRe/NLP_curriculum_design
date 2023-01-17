@@ -1,0 +1,71 @@
+{
+    "1": [
+        "Python (Programming Language)"
+    ],
+    "2": [
+        "Data Science"
+    ],
+    "5": [
+        "Machine Learning"
+    ],
+    "6": [
+        "SQL (Programming Language)"
+    ],
+    "16": [
+        "Statistics"
+    ],
+    "4": [
+        "Computer Science"
+    ],
+    "7": [
+        "Machine Learning Methods"
+    ],
+    "8": [
+        "Levelling"
+    ],
+    "11": [
+        "R (Programming Language)"
+    ],
+    "3": [
+        "Algorithms"
+    ],
+    "14": [
+        "Maintainability"
+    ],
+    "9": [
+        "Automation"
+    ],
+    "17": [
+        "Tableau (Business Intelligence Software)"
+    ],
+    "15": [
+        "Data Visualization"
+    ],
+    "12": [
+        "Prediction"
+    ],
+    "0": [
+        "Data Engineering",
+        "Scalability",
+        "Quantitative Data Analysis",
+        "Accounting",
+        "Predictive Modeling",
+        "Interactivity",
+        "Pipelining",
+        "Software Engineering",
+        "TensorFlow",
+        "Validations",
+        "Big Data",
+        "Google Cloud Platform (GCP)",
+        "Software Development",
+        "PyTorch (Machine Learning Library)",
+        "Statistical Modeling",
+        "Mathematical Statistics"
+    ],
+    "13": [
+        "Deep Learning"
+    ],
+    "10": [
+        "Artificial Intelligence"
+    ]
+}

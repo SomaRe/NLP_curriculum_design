@@ -1,0 +1,67 @@
+Job Description:
+Under the mentorship of the Executive Director of Data Analytics & Data Science, this role will be responsible for developing KPIs, designing experiments, and developing various advanced analytics solutions to inform decision-making ranging from greenlighting and marketing to distribution at Paramount Pictures.
+The right person for the role is a data scientist who thoroughly enjoys defining and solving mathematical problems to address business questions. The ideal candidate is excited about delivering the best-in-class data-driven insights and data science tools in the movie industry.
+More specifically, these responsibilities include, but are not limited to:
+- Building key metrics to track marketing campaign and box office performance
+- Automating and optimizing the routine update of these key metrics
+- Working with non-technical stakeholders to design experiments or surveys to derive
+audience or messaging insights
+- Researching and developing statistical and machine learning models to support various business initiatives
+- Presenting analytics or modeling results to technical and non-technical stakeholders
+- Working with data engineers to obtain useful and quality data for data science projects
+- Working with data visualization team by delivering accurate and consistent data that
+meet their reporting need
+Basic Qualifications:
+- 2+ years of experience in a data analytics or data science role
+- Graduate Degree in Data Science, Statistics, Business Analytics, Computer Science,
+Engineering, Applied Mathematics, or other quantitative fields
+- Advanced graduate coursework in Machine Learning and Statistics
+- Highly experienced with SQL and Python (or R)
+- Working knowledge of data visualization tools such as Tableau, Google Data Studio, or Amazon QuickSight
+- Experience with cleansing and manipulating large datasets and conducting deep
+statistical analysis
+- Experience with fitting, evaluating, and interpreting statistical and machine learning
+models independently in a business setting
+- Strong verbal and written communications skills both to technical and non-technical
+audiences
+- Ability to prioritize and meet timelines in a dynamic environment
+- Great attention to detail
+Preferred Qualifications:
+-Working knowledge of Snowflake, AWS cloud services, and Google Cloud Platform APIs
+- Experience with cloud machine-learning tools
+- Experience with analyzing and presenting survey data
+- Comfortable reading research papers and applying most cutting-edge models to
+projects
+Founded in 1912, Paramount Pictures works with the entertainment industryâ€™s biggest filmmakers and brightest stars to produce and distribute entertainment around the world. The iconic Paramount logo has opened some of the most successful and beloved films in cinematic history, including timeless classics such as Sunset Boulevard, The Godfather, Forrest Gump and Ferris Buellerâ€™s Day Off; and blockbuster franchises such as Star Trek, Transformers, and Mission: Impossible. Recent innovative break-out films such as A Quiet Place and Rocketman have further elevated Paramountâ€™s film legacy. On the small screen, Paramount Television Studiosâ€™ Defending Jacob, 13 Reasons Why, The Haunting of Bly Manor, The Alienist: Angel of Darkness, Made for Love and Tom Clancyâ€™s Jack Ryan have also been thrilling audiences. With a beautiful 65-acre lot in the heart of Hollywood, a worldwide network of offices and a culture of engagement, Paramountâ€™s passionate employees ensure the studio continues to deliver creativity and innovation to a dynamic industry. Paramount is a subsidiary of ViacomCBS, which reaches 700 million global subscribers through MTV, Nickelodeon, Comedy Central, BET and other media networks.
+Paramount is an equal opportunity employer (EOE) including disability/vet.
+At Paramount, the spirit of inclusion feeds into everything that we do, on-screen and off. From the programming and movies we create to employee benefits/programs and social impact outreach initiatives, we believe that opportunity, access, resources and rewards should be available to and for the benefit of all. Paramount is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ethnicity, ancestry, religion, creed, sex, national origin, sexual orientation, age, citizenship status, marital status, disability, gender identity, gender expression, and Veteran status.
+If you are a qualified individual with a disability or a disabled veteran, you may request a reasonable accommodation if you are unable or limited in your ability to use or access. https://www.paramount.com/careers as a result of your disability. You can request reasonable accommodations by calling 212.846.5500. Only messages left for this purpose will be returned.
+Paramount believes in creating environments that allow our primary focus to remain on providing entertainment, education and information to our millions of viewers around the world. As part of this commitment to health and safety, Paramount requires COVID-19 vaccines for current U.S. employees, including all newly hired employees, subject to applicable law. Union employees are subject to the agreement reached between the Company and the applicable Union.
+Job Type: Full-time
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Employee assistance program
+Employee discount
+Flexible schedule
+Flexible spending account
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Parental leave
+Professional development assistance
+Referral program
+Relocation assistance
+Retirement plan
+Tuition reimbursement
+Vision insurance
+Schedule:
+8 hour shift
+Supplemental pay types:
+Bonus pay
+Signing bonus
+Experience:
+Data Science: 2 years (Required)
+Work Location: Remote

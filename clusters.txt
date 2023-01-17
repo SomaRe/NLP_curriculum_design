@@ -1,0 +1,127 @@
+Python (Programming Language) 7
+Data Science 5
+Machine Learning 11
+SQL (Programming Language) 7
+Statistics 3
+Computer Science 2
+Machine Learning Methods 11
+Levelling 6
+R (Programming Language) 8
+Algorithms 2
+Maintainability 2
+Automation 2
+Tableau (Business Intelligence Software) 2
+Data Visualization 2
+Prediction 4
+Data Engineering 4
+Deep Learning 4
+Artificial Intelligence 2
+Scalability 4
+Quantitative Data Analysis 4
+Accounting 13
+Predictive Modeling 4
+Interactivity 0
+Pipelining 4
+Software Engineering 4
+TensorFlow 1
+Validations 4
+Big Data 4
+Google Cloud Platform (GCP) 4
+Software Development 4
+PyTorch (Machine Learning Library) 1
+Statistical Modeling 4
+Mathematical Statistics 4
+Data Analysis 4
+SAS Statistical Analysis 4
+Investments 4
+Integrated Product Team 4
+SAS (Software) 4
+Data Modeling 4
+Product Management 4
+Finance 4
+Data Quality 4
+Forecasting 4
+Business Intelligence 4
+Project Management 4
+Amazon Data Pipeline 4
+Time Series 4
+Product Data Management 4
+Pandas (Python Package) 1
+Operations Research 4
+Cross-Functional Team Leadership 4
+Business Partnering 4
+Cross-Functional Collaboration 0
+Scikit-learn (Machine Learning Library) 1
+Natural Language Processing 4
+New Product Development 4
+Power BI 4
+Relational Databases 4
+Extract Transform Load (ETL) 4
+Real Time Data 4
+C (Programming Language) 4
+Ocean Data View 4
+Model Building 4
+Docker (Software) 4
+NumPy 1
+Snowflake (Data Warehouse) 4
+Mapping 4
+Data Processing Systems 4
+Scala (Programming Language) 4
+Exploratory Data Analysis 4
+C++ (Programming Language) 4
+Artificial Neural Networks 4
+Data Structures 4
+Data Collection 4
+Applied Statistics 4
+Model-Driven Development 4
+Simulations 4
+Kubernetes 4
+Data Management 4
+Computer Vision 4
+Pyspark 4
+Keras (Neural Network Library) 4
+Data Reference Model 4
+NoSQL 4
+Data Extraction 4
+Version Control 4
+Data Transformation 4
+Business Analytics 4
+DevOps 4
+Databricks 4
+Statistical Hypothesis Testing 4
+Decision Tree Learning 4
+Statistical Methods 4
+Applied Mathematics 4
+Communications 14
+Collaboration 9
+Innovation 12
+Management 10
+Operations 13
+Planning 12
+Decisiveness 2
+Presentations 0
+Research 2
+Integration 2
+Professionalism 2
+Scheduling 2
+Leadership 4
+Writing 2
+Verbal Communication Skills 4
+Problem Solving 2
+Consulting 4
+Complex Problem Solving 4
+Decision Making 4
+Creativity 4
+Proactivity 4
+Written Communication 4
+Negotiation 4
+Critical Thinking 4
+Time Management 4
+Quality Assurance 4
+Business Operations 4
+Teamwork 4
+Organizational Skills 4
+Microsoft Office 4
+Non-Verbal Communication 4
+Team Leadership 4
+Creative Problem-Solving 4

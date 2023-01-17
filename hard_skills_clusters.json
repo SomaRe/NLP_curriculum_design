@@ -1,0 +1,136 @@
+{
+    "9": [
+        "Python (Programming Language)"
+    ],
+    "17": [
+        "Data Science"
+    ],
+    "4": [
+        "Machine Learning"
+    ],
+    "7": [
+        "SQL (Programming Language)"
+    ],
+    "8": [
+        "Statistics"
+    ],
+    "18": [
+        "Computer Science"
+    ],
+    "15": [
+        "Machine Learning Methods"
+    ],
+    "14": [
+        "Levelling"
+    ],
+    "2": [
+        "R (Programming Language)"
+    ],
+    "13": [
+        "Algorithms"
+    ],
+    "12": [
+        "Maintainability"
+    ],
+    "16": [
+        "Automation"
+    ],
+    "1": [
+        "Tableau (Business Intelligence Software)",
+        "Data Visualization",
+        "Quantitative Data Analysis",
+        "Accounting",
+        "Predictive Modeling",
+        "Validations",
+        "Google Cloud Platform (GCP)",
+        "SAS Statistical Analysis",
+        "SAS (Software)",
+        "Finance",
+        "Data Quality",
+        "Business Intelligence",
+        "Project Management",
+        "Power BI",
+        "Relational Databases",
+        "Exploratory Data Analysis",
+        "Data Structures",
+        "Business Analytics"
+    ],
+    "19": [
+        "Prediction",
+        "Data Engineering",
+        "Interactivity",
+        "Statistical Modeling",
+        "Product Management",
+        "Amazon Data Pipeline",
+        "Business Partnering",
+        "Cross-Functional Collaboration",
+        "New Product Development",
+        "Snowflake (Data Warehouse)",
+        "Scala (Programming Language)",
+        "Artificial Neural Networks",
+        "Applied Statistics",
+        "Data Management",
+        "Computer Vision",
+        "Pyspark",
+        "Keras (Neural Network Library)",
+        "Data Extraction",
+        "Version Control",
+        "Databricks",
+        "Decision Tree Learning",
+        "Statistical Methods"
+    ],
+    "11": [
+        "Deep Learning",
+        "Artificial Intelligence",
+        "Scalability",
+        "Software Engineering",
+        "Software Development",
+        "Integrated Product Team",
+        "Natural Language Processing",
+        "Real Time Data",
+        "Docker (Software)",
+        "Data Processing Systems",
+        "Kubernetes",
+        "NoSQL",
+        "Data Transformation",
+        "DevOps"
+    ],
+    "6": [
+        "Pipelining"
+    ],
+    "3": [
+        "TensorFlow",
+        "PyTorch (Machine Learning Library)",
+        "Pandas (Python Package)",
+        "Scikit-learn (Machine Learning Library)",
+        "NumPy"
+    ],
+    "5": [
+        "Big Data"
+    ],
+    "10": [
+        "Mathematical Statistics",
+        "Data Analysis",
+        "Data Modeling",
+        "Forecasting",
+        "Time Series",
+        "Product Data Management",
+        "Operations Research",
+        "Cross-Functional Team Leadership",
+        "Extract Transform Load (ETL)",
+        "C (Programming Language)",
+        "Ocean Data View",
+        "Model Building",
+        "Mapping",
+        "C++ (Programming Language)",
+        "Data Collection",
+        "Model-Driven Development",
+        "Simulations",
+        "Data Reference Model",
+        "Statistical Hypothesis Testing",
+        "Applied Mathematics"
+    ],
+    "0": [
+        "Investments"
+    ]
+}
